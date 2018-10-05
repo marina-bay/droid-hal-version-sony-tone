@@ -17,3 +17,4 @@ BuildRequires: droid-hal-pioneer
 BuildRequires: droid-hal-pioneer-img-boot
 BuildRequires: droid-hal-pioneer-img-recovery
 BuildRequires: droid-hal-pioneer-kernel
+BuildRequires: droid-hal-pioneer-tools

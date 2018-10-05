@@ -17,3 +17,4 @@ BuildRequires: droid-hal-discovery
 BuildRequires: droid-hal-discovery-img-boot
 BuildRequires: droid-hal-discovery-img-recovery
 BuildRequires: droid-hal-discovery-kernel
+BuildRequires: droid-hal-discovery-tools
