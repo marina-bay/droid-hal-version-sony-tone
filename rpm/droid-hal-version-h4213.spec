@@ -1,4 +1,4 @@
-%define rpm_device h3213
+%define rpm_device h4213
 
 %define device_pretty Xperia XA2 Ultra - Dual SIM
 
