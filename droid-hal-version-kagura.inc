@@ -13,8 +13,8 @@ BuildRequires: droid-config-%{rpm_device}-preinit-plugin
 BuildRequires: droid-config-%{rpm_device}-pulseaudio-settings
 BuildRequires: droid-config-%{rpm_device}-sailfish
 # Shared between the adaptations
-BuildRequires: droid-hal-discovery
-BuildRequires: droid-hal-discovery-img-boot
-BuildRequires: droid-hal-discovery-img-recovery
-BuildRequires: droid-hal-discovery-kernel
-BuildRequires: droid-hal-discovery-tools
+BuildRequires: droid-hal-kagura
+BuildRequires: droid-hal-kagura-img-boot
+BuildRequires: droid-hal-kagura-img-recovery
+BuildRequires: droid-hal-kagura-kernel
+BuildRequires: droid-hal-kagura-tools

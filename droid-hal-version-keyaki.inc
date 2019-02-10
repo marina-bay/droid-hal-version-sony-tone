@@ -13,8 +13,8 @@ BuildRequires: droid-config-%{rpm_device}-preinit-plugin
 BuildRequires: droid-config-%{rpm_device}-pulseaudio-settings
 BuildRequires: droid-config-%{rpm_device}-sailfish
 # Shared between the adaptations
-BuildRequires: droid-hal-voyager
-BuildRequires: droid-hal-voyager-img-boot
-BuildRequires: droid-hal-voyager-img-recovery
-BuildRequires: droid-hal-voyager-kernel
-BuildRequires: droid-hal-voyager-tools
+BuildRequires: droid-hal-keyaki
+BuildRequires: droid-hal-keyaki-img-boot
+BuildRequires: droid-hal-keyaki-img-recovery
+BuildRequires: droid-hal-keyaki-kernel
+BuildRequires: droid-hal-keyaki-tools

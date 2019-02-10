@@ -13,8 +13,8 @@ BuildRequires: droid-config-%{rpm_device}-preinit-plugin
 BuildRequires: droid-config-%{rpm_device}-pulseaudio-settings
 BuildRequires: droid-config-%{rpm_device}-sailfish
 # Shared between the adaptations
-BuildRequires: droid-hal-pioneer
-BuildRequires: droid-hal-pioneer-img-boot
-BuildRequires: droid-hal-pioneer-img-recovery
-BuildRequires: droid-hal-pioneer-kernel
-BuildRequires: droid-hal-pioneer-tools
+BuildRequires: droid-hal-dora
+BuildRequires: droid-hal-dora-img-boot
+BuildRequires: droid-hal-dora-img-recovery
+BuildRequires: droid-hal-dora-kernel
+BuildRequires: droid-hal-dora-tools

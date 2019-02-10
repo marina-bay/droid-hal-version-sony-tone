@@ -1,6 +1,6 @@
-%define rpm_device h3413
+%define rpm_device g8231
 
-%define device_pretty Xperia XA2 Plus
+%define device_pretty Xperia XZs
 
-%include droid-hal-version-voyager.inc
+%include droid-hal-version-keyaki.inc
 %include droid-hal-version/droid-hal-version.inc

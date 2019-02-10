@@ -1,6 +1,6 @@
-%define rpm_device h4213
+%define rpm_device f8332
 
-%define device_pretty Xperia XA2 Ultra - Dual SIM
+%define device_pretty Xperia XZ - Dual SIM
 
-%include droid-hal-version-discovery.inc
+%include droid-hal-version-kagura.inc
 %include droid-hal-version/droid-hal-version.inc
